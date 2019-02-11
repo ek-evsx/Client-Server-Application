@@ -1,0 +1,7 @@
+This is client-server application from course: https://www.coursera.org/learn/diving-in-python/home/welcome
+
+-----------------------------------------------------------------------------------------------------------
+1. my_client.py & my_server.py ---> it's my realization of client-server application
+2. server_OOP.py ---> it's realization with using OOP
+3. client_test & server_test ---> it's unit test wrote by mentors of this course for testing my client or server part.
+4. client.py & server.py ---> it's realization of client-server app by mentors.
